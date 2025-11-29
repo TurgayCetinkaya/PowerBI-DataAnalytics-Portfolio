@@ -1,0 +1,69 @@
+# Power BI – Data Analytics Dashboard Portfolio
+
+This repository contains my complete dashboard portfolio built for HR Analytics, Customer Behavior Analysis, Financial Monitoring and Operational Performance.  
+All charts in this portfolio were generated using Python (matplotlib).  
+Each section includes:  
+1) Dashboard topic  
+2) Professional explanation  
+3) Python code used to create the visualization  
+
+These examples demonstrate my ability to analyze data, design KPIs, create business insights and visualize results using industry-standard reporting logic.
+
+---
+
+# 1. HR KPI – Employee Count by Department
+
+## Explanation  
+This dashboard shows the total number of employees working in each department: HR, IT, Sales, Finance and Operations.  
+It is used in HR analytics to measure workforce distribution, evaluate departmental size, and track organizational structure capacity.
+
+---
+
+# 2. HR KPI – Monthly Turnover Rate (%)
+
+## Explanation  
+Turnover rate shows how many employees leave the company each month.  
+It is a critical HR metric for understanding retention, workforce stability and organizational climate.  
+This dashboard allows managers to detect risky months and turnover spikes.
+
+---
+
+# 3. Customer Analytics – Churn by Region (%)
+
+## Explanation  
+Customer churn is the percentage of lost customers.  
+This dashboard compares churn rates in five regions: Ankara, İstanbul, İzmir, Bursa and Antalya.  
+It is used to identify high-risk markets, customer loss patterns and retention strategies.
+
+---
+
+# 4. Financial Dashboard – Monthly Revenue (TL)
+
+## Explanation  
+This dashboard visualizes monthly revenue.  
+It helps finance teams monitor income fluctuations, detect growth declines and prepare forecasting (budget planning).  
+It is one of the most important visuals in financial reporting.
+
+---
+
+# 5. Operational Dashboard – Delivery Performance
+
+## Explanation  
+This dashboard displays the ratio of on-time deliveries vs delayed shipments.  
+It is used by logistics and operations teams to monitor efficiency, find bottlenecks, and improve service quality.
+
+---
+
+# Technologies Used
+- Power BI  
+- Python (matplotlib, pandas, numpy)  
+- SQL  
+- Excel (Advanced)  
+
+---
+
+# About Me
+**Turgay Çetinkaya**  
+HR & Data Analytics  
+Ankara, Türkiye  
+Email: **turgaycetinkaya94@gmail.com**
